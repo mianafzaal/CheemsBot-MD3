@@ -44,7 +44,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['923430436852'] //ur owner number
 global.ownername = "☙𝐌𝐈𝐀𝐍😈"
 global.ytname = "https://instagram.com/mian_savage_boy?utm_medium=copy_link" //ur yt chanel name
-global.socialm = "GitHub: MIAN" //ur github or insta name
+global.socialm = "MIAN" //ur github or insta name
 global.location = "Pakistan, Lahore" //ur location
 
 //bot bombdy
@@ -53,7 +53,7 @@ global.websitex = "https://instagram.com/mian_savage_boy?utm_medium=copy_link" /
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "𝐌𝐈𝐀𝐍 𝐁𝐎𝐓😈𝐒𝐭𝐢𝐜𝐤𝐞𝐫𝐬\n\n\n\n\n\n\n🤓🤓😚"
 global.author = "𝐌𝐈𝐀𝐍😈"
-global.themeemoji = "🐶"
+global.themeemoji = "💠"
 global.reactmoji = "😘"
 global.ownertag = ['923430436852'] //ur owner tag
 global.ownernummenu = ['923430436852'] //ur owner number in menu and all
@@ -94,14 +94,14 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓🤓',
+    success: '𝐃𝐨𝐧𝐞✓🤓',
     admin: 'This feature is only for admins!',
     botAdmin: 'Bot Must Be Admin First🤓!',
     owner: 'This feature is only for owner',
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
-    wait: 'In process🤓...',
+    wait: '𝐈𝐧 𝐩𝐫𝐨𝐜𝐞𝐬𝐬🤓...',
     linkm: 'Where is the link?',
     error: 'Error!🤓',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
