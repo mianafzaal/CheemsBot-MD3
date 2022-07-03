@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['923430436852'] //ur owner number
+global.ownername = "☙𝐌𝐈𝐀𝐍😈"
+global.ytname = "https://instagram.com/mian_savage_boy?utm_medium=copy_link" //ur yt chanel name
+global.socialm = "GitHub: MIAN" //ur github or insta name
+global.location = "Pakistan, Lahore" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "𝐌𝐈𝐀𝐍 𝐁𝐎𝐓😈" //ur bot name
+global.websitex = "https://instagram.com/mian_savage_boy?utm_medium=copy_link" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "𝐌𝐈𝐀𝐍 𝐁𝐎𝐓😈𝐒𝐭𝐢𝐜𝐤𝐞𝐫𝐬\n\n\n\n\n\n\n🤓🤓😚"
+global.author = "𝐌𝐈𝐀𝐍😈"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.ownertag = ['923430436852'] //ur owner tag
+global.ownernummenu = ['923430436852'] //ur owner number in menu and all
+global.watermark = "Mian Bot Inc." //ur watermark
+global.botscript = "http://Wa.me//:+923430436852"
+global.linkz1 = "🤓⚠️"
+global.linkz2 = "🤓⚠️"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -94,16 +94,16 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
+    success: 'Done✓🤓',
     admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
+    botAdmin: 'Bot Must Be Admin First🤓!',
     owner: 'This feature is only for owner',
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
-    wait: 'In process...',
+    wait: 'In process🤓...',
     linkm: 'Where is the link?',
-    error: 'Error!',
+    error: 'Error!🤓',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
