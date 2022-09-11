@@ -52,7 +52,7 @@ global.botname = "𝐌𝐈𝐀𝐍 𝐁𝐎𝐓😈" //ur bot name
 global.websitex = "https://instagram.com/busy__mian_05?igshid=YmMyMTA2M2Y=" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "𝐌𝐈𝐀𝐍 𝐁𝐎𝐓😈𝐒𝐭𝐢𝐜𝐤𝐞𝐫𝐬\n\n\n\n\n\n\n🤓🤓😚"
-global.author = "𝐌𝐈𝐀𝐍😈"
+global.author = "+₉₂₃₄₃₀₄₃₆₈₅₂"
 global.themeemoji = "💠"
 global.reactmoji = "😘"
 global.ownertag = ['923430436852'] //ur owner tag
